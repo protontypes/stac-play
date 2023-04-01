@@ -1,2 +1,2 @@
 # stac-play
-A playground for STAC and GIS application for Spatial Finance
+A playground using STAC and GIS application for Spatial Finance
